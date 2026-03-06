@@ -5,7 +5,7 @@
 💻 **Frontend Developer | MERN Stack Learner**
 🚀 Passionate about **Web Development, UI Design & DSA**
 
-![Profile views](https://komarev.com/ghpvc/?username=Rishikeshpandey\&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Rishikespandey\&color=blue)
 
 ---
 
@@ -58,31 +58,31 @@
 
 # 📊 GitHub Stats
 
-![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishikeshpandey\&show_icons=true\&theme=tokyonight)
+![Rishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishikespandey\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rishikeshpandey\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rishikespandey\&theme=tokyonight)
 
 ---
 
 # 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikeshpandey\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikespandey\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rishikeshpandey\&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Rishikespandey\&theme=onedark)
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikeshpandey\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishikespandey\&theme=tokyo-night)
 
 ---
 
