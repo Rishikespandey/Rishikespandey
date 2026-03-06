@@ -81,15 +81,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rishikespandey&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Rishikespandey&theme=tokyonight"/>
 </p>
-
----
 
 # 📈 Top Languages
 
@@ -102,7 +98,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishikespandey&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rishikespandey&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
