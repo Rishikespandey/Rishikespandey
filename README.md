@@ -90,18 +90,14 @@
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikespandey&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikespandey&layout=compact&theme=tokyonight"/>
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rishikespandey&theme=onedark&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rishikespandey&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
